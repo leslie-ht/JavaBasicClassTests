@@ -2,7 +2,10 @@ package chapter3;
 
 import java.util.ArrayList;
 import java.util.Scanner;
-
+/*
+ * author: leslie
+ * date: 3 May 2016
+ */
 public class Main {
 
 	public static void main(String[] args) {
